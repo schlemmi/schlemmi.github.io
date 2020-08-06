@@ -1,0 +1,68 @@
+{
+  "resources": [
+    "asprite2.ogg",
+    "asprite2.mp3"
+  ],
+  "spritemap": {
+    "ball-hit1": {
+      "start": 0,
+      "end": 0.14421768707482993,
+      "loop": false
+    },
+    "crushed-can2": {
+      "start": 2,
+      "end": 2.1596825396825396,
+      "loop": false
+    },
+    "drain1": {
+      "start": 4,
+      "end": 4.54875283446712,
+      "loop": false
+    },
+    "drain_end": {
+      "start": 6,
+      "end": 6.5778231292517,
+      "loop": false
+    },
+    "explosion_1": {
+      "start": 8,
+      "end": 10.01063492063492,
+      "loop": false
+    },
+    "flaunch2": {
+      "start": 12,
+      "end": 12.382698412698412,
+      "loop": false
+    },
+    "metal-hit1": {
+      "start": 14,
+      "end": 14.252517006802721,
+      "loop": false
+    },
+    "rocket_L1": {
+      "start": 16,
+      "end": 16.446190476190477,
+      "loop": false
+    },
+    "rocket_L2": {
+      "start": 18,
+      "end": 18.36206349206349,
+      "loop": false
+    },
+    "se_jackhammer1": {
+      "start": 20,
+      "end": 20.47294784580499,
+      "loop": false
+    },
+    "steel-hit1": {
+      "start": 22,
+      "end": 22.277755102040818,
+      "loop": false
+    },
+    "wind1": {
+      "start": 24,
+      "end": 24.9178231292517,
+      "loop": false
+    }
+  }
+}
